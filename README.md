@@ -16,8 +16,11 @@ Receiving objects: 100% (6/6), done.
     Directory: D:\Baraka\New-project
 
 
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----         7/30/2026   3:53 PM             20 Docker1.txt
--a----         7/30/2026   3:53 PM             48 README.md
+|Mode|                     LastWriteTime|         Length Name|
+
+|----|                 -------------|         ------ ----|
+
+|-a----        | 7/30/2026   3:53 PM |            20 Docker1.txt|
+
+|-a----  |       7/30/2026   3:53 PM |            48 README.md|
 
