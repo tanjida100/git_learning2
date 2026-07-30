@@ -7,8 +7,11 @@ remote: Counting objects: 100% (6/6), done.
 remote: Compressing objects: 100% (3/3), done.
 remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 Receiving objects: 100% (6/6), done.
+<br/>
+
 ## Go to that cloning file:
 2. PS D:\Baraka> cd New-project
+<br/>
 
 3. (base) PS D:\Baraka\New-project> ls
 
@@ -23,11 +26,14 @@ Receiving objects: 100% (6/6), done.
 |-a----        | 7/30/2026   3:53 PM |            20 Docker1.txt|
 
 |-a----  |       7/30/2026   3:53 PM |            48 README.md|
+<br/>
 
 4. ### Personal access token
 go to git account -> setting -> Developer->personal access token
 then generate your token.
+
 5. __use gitbash when create file (touch text1.txt)__
+<br/>
 6. __Add to  git__
 (base) PS D:\Baraka\tanjida\notes-2> git add text1.txt
 (base) PS D:\Baraka\tanjida\notes-2> git commit -m "added more information"
